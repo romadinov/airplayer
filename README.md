@@ -28,3 +28,6 @@ segments from the Mac directly.
 open build/Airplayer.app
 ```
 `Airplayer --serve <file>` runs only the HLS server and prints the master playlist URL (for testing with other players).
+
+## License
+MIT — see [LICENSE](LICENSE).
